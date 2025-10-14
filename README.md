@@ -10,17 +10,21 @@
 🚀 Projects
 
 Here you can find my main projects developed during my learning and professional experience:
+
 ♻️Environmental Modeling with Python — Solid Waste Analysis (BENCOL-Python)
 • Cleaned and preprocessed solid waste data from an industrial plant.
 • Analyzed trends in hazardous and non-hazardous waste generation.
 • Applied ARIMA model to forecast future waste volumes.
 • Proposed strategies to improve recycling and waste diversion rates.
+
 🧹📊Customer Cleansing and Segmentation – Store 1 (TripleTen Bootcamp)
 • Cleansing and standardizing customer profiles.
 • Segmentation and design of KPIs to improve loyalty and marketing campaigns.
+
 📦🔍Exploratory analysis – Instacart (TripleTen Bootcamp)
 • Processing large volumes of data with Pandas.
 • Identification of purchasing patterns and order frequency, with visualization in Python.
+
 🎮📈Video game sales analysis – Ice (TripleTen Bootcamp)
 • Evaluation of sales by region, genre, and platform.
 • Validation of hypotheses that identify genres with greater profitability.
