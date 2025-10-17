@@ -21,11 +21,6 @@ Here you can find my main projects developed during my learning and professional
 
 • Proposed strategies to improve recycling and waste diversion rates.
 
-• LINKS
-    
-   Part1 Customer Cleansing: https://github.com/LuciaChirinosC/P1.Store_1Data_customer_cleansing.git
-
-   Part2 Customer Cleansing and Segmentation : https://github.com/LuciaChirinosC/P2.Store1_Customer-Analysis.git
 
 🧹📊Customer Cleansing and Segmentation – Store 1 (TripleTen Bootcamp)
 
@@ -33,7 +28,11 @@ Here you can find my main projects developed during my learning and professional
 
 • Segmentation and design of KPIs to improve loyalty and marketing campaigns.
 
-• LINK
+• LINKS
+    
+   Part1 Customer Cleansing: https://github.com/LuciaChirinosC/P1.Store_1Data_customer_cleansing.git
+
+   Part2 Customer Cleansing and Segmentation : https://github.com/LuciaChirinosC/P2.Store1_Customer-Analysis.git
 
 📦🔍Exploratory analysis – Instacart (TripleTen Bootcamp)
 
