@@ -45,7 +45,7 @@ Here you can find my main projects developed during my learning and professional
 
 • Validation of hypotheses that identify genres with greater profitability.
 
-• LINK
+• LINK:https://github.com/LuciaChirinosC/P6.Ice-Video_Games_Analysis.git
 
 All my projects are available in this GitHub portfolio.
 
