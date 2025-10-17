@@ -21,7 +21,11 @@ Here you can find my main projects developed during my learning and professional
 
 • Proposed strategies to improve recycling and waste diversion rates.
 
-• LINK
+• LINKS
+    
+   Part1 Customer Cleansing: https://github.com/LuciaChirinosC/P1.Store_1Data_customer_cleansing.git
+
+   Part2 Customer Cleansing and Segmentation :
 
 🧹📊Customer Cleansing and Segmentation – Store 1 (TripleTen Bootcamp)
 
