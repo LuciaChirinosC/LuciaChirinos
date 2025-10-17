@@ -21,6 +21,8 @@ Here you can find my main projects developed during my learning and professional
 
 • Proposed strategies to improve recycling and waste diversion rates.
 
+• LINK: https://github.com/LuciaChirinosC/Environmental-modeling-waste-python.git
+
 
 🧹📊Customer Cleansing and Segmentation – Store 1 (TripleTen Bootcamp)
 
