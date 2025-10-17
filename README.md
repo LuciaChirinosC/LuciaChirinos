@@ -27,6 +27,7 @@ Here you can find my main projects developed during my learning and professional
 
 • Processing large volumes of data with Pandas.
 • Identification of purchasing patterns and order frequency, with visualization in Python.
+• LINK:https://github.com/LuciaChirinosC/P4._Instacart-Orders_Data_Cleaning-EDA.git
 
 🎮📈Video game sales analysis – Ice (TripleTen Bootcamp)
 
